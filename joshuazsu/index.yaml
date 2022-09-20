@@ -3,7 +3,7 @@ entries:
   livy:
   - apiVersion: v1
     appVersion: v0.8.0-incubating-SNAPSHOT
-    created: "2022-09-19T17:06:58.662769-07:00"
+    created: "2022-09-19T17:17:26.084732-07:00"
     description: Apache Livy server to run Spark on Kubernetes
     digest: e073fd96127054bd8594e0a7233293f562c7d3526c178a256ebdc5b8bde8cba0
     home: https://livy.incubator.apache.org/
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://joshuazsu.github.io/helm-charts/livy-2.0.1.tgz
     version: 2.0.1
-generated: "2022-09-19T17:06:58.660883-07:00"
+generated: "2022-09-19T17:17:26.082714-07:00"
